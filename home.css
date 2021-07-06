@@ -21,7 +21,7 @@ content:attr(data-src-600px,url);
 }
 
 body {
-background-image: url(css/images.jpg);
+background-image: url(images.jpg);
 background-size: cover;
 background-position: center;
 height: 100vh;
